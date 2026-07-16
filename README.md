@@ -1,6 +1,13 @@
 # md-editor
 
-一个轻量、简单的 macOS Markdown 阅读和编辑工具。体积小、打开快、上手容易。输入的内容不会被程序改写，保存不弹窗，完全本地运行。
+**一个安静的 macOS Markdown 编辑器 —— 你写什么，磁盘上就存什么。**
+*A quiet, lightweight Markdown editor for macOS — what you type is exactly what gets saved.*
+
+![platform](https://img.shields.io/badge/platform-macOS%2010.15%2B-lightgrey)
+![release](https://img.shields.io/github/v/release/cxiaohuan2011/MD-editor)
+![license](https://img.shields.io/badge/license-Freeware-blue)
+
+体积小、打开快、上手容易。输入的内容不会被程序改写，保存不弹窗，完全本地运行、不联网、不收集任何数据。
 
 ![md-editor 浅色界面](docs/screenshots/hero.png)
 
